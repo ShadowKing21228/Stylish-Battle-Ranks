@@ -1,0 +1,6 @@
+{
+  "sbr.tracknotinstalled" : "§c⚠ Stylish Battle Ranks тих без музыки! ⚠\n",
+  "sbr.tracknotinstalled2" : "Добавьте трек в /config/stylishbattleranks/music чтобы почуствовать стиль.",
+  "sbr.command.set" : "Значение изменено!",
+  "sbr.command.setfailurerank" : "Ранк неправилен! Введите D, C, B, A, S, SS или SSS"
+}
