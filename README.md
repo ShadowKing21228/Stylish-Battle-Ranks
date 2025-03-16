@@ -1,5 +1,4 @@
 ## About
-[![](http://cf.way2muchnoise.eu/full_jei_downloads.svg)](curseforge.com/minecraft/mc-mods/stylish-battle-ranks)
 
 Stylish Battle Ranks is a mod that transforms combat in Minecraft into a stylish and dynamic challenge, inspired by hack-and-slash games. During battles, players receive style ranks that change based on the variety and effectiveness of their attacks. Mindlessly hacking away at mobs won’t earn you high scores—achieving an SSS rank requires skillful combos of strikes, critical hits, blocking, and different types of damage.
 
